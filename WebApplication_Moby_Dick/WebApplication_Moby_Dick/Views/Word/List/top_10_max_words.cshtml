@@ -1,0 +1,30 @@
+﻿
+@model WebApplication_Moby_Dick.Models.liste
+@{
+ Layout = null;
+ }
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Top 10 Words</title>
+    </head>
+    <body>
+        <table cellpadding="6" cellspacing="0" border="1">
+            <tr>
+                <th>Text</th>
+                <th>Count</th>
+            </tr>
+            @foreach (var item in Model.kelimeler)
+            {
+            <tr align="center">
+                <td>@Html.DisplayTextFor(model => item.text)</td>
+                <td>@Html.DisplayTextFor(model => item.count)</td>
+            </tr>
+            }
+        </table>
+    </body>
+</html>
+

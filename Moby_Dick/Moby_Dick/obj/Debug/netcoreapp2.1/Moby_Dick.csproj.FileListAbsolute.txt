@@ -1,0 +1,11 @@
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\bin\Debug\netcoreapp2.1\Moby_Dick.deps.json
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\bin\Debug\netcoreapp2.1\Moby_Dick.runtimeconfig.json
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\bin\Debug\netcoreapp2.1\Moby_Dick.runtimeconfig.dev.json
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\bin\Debug\netcoreapp2.1\Moby_Dick.dll
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\bin\Debug\netcoreapp2.1\Moby_Dick.pdb
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.csprojAssemblyReference.cache
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.csproj.CoreCompileInputs.cache
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.AssemblyInfoInputs.cache
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.AssemblyInfo.cs
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.dll
+c:\users\fırat\source\repos\Moby_Dick\Moby_Dick\obj\Debug\netcoreapp2.1\Moby_Dick.pdb

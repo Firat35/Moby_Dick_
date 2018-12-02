@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item key="the" value="3" />
+  <Item key="serialization" value="3" />
+  <Item key="and" value="1" />
+  <Item key="deserialization" value="1" />
+  <Item key="of" value="2" />
+  <Item key="net" value="1" />
+  <Item key="objects" value="1" />
+  <Item key="is" value="3" />
+  <Item key="made" value="1" />
+  <Item key="easy" value="2" />
+  <Item key="by" value="1" />
+  <Item key="using" value="1" />
+  <Item key="various" value="1" />
+  <Item key="serializer" value="1" />
+  <Item key="classes" value="1" />
+  <Item key="that" value="2" />
+  <Item key="it" value="1" />
+  <Item key="provides" value="1" />
+  <Item key="but" value="1" />
+  <Item key="a" value="2" />
+  <Item key="dictionary" value="2" />
+  <Item key="object" value="1" />
+  <Item key="not" value="1" />
+  <Item key="for" value="1" />
+  <Item key="this" value="1" />
+  <Item key="you" value="1" />
+  <Item key="have" value="1" />
+  <Item key="to" value="2" />
+  <Item key="create" value="1" />
+  <Item key="special" value="1" />
+  <Item key="class" value="1" />
+  <Item key="which" value="1" />
+  <Item key="able" value="1" />
+  <Item key="serialize" value="1" />
+  <Item key="itself" value="1" />
+  <Item key="technique" value="1" />
+  <Item key="might" value="1" />
+  <Item key="be" value="1" />
+  <Item key="different" value="2" />
+  <Item key="in" value="1" />
+  <Item key="business" value="1" />
+  <Item key="cases" value="1" />
+</Dictionary>
